@@ -1,0 +1,16 @@
+Olá meu caro! Tudo bem?
+
+Esse teste foi solicitado para testar os meus conhecimentos para efetuar um sistema de cadastro. Mas infelizmente algumas funções eu não consegui fazer funcionar
+E estou disposto a criticas sobre o projeto.
+
+Esse projeto foi desenvolvido usando linguagem php com conexão com banco de dados em servidor local ( Localhost ). Foi usado o xampp para executar o teste.
+
+Deverá seguir os devidos passos:
+
+1º - Ter o xampp instalado em sua máquina.
+2º - deverá colar a pasta SistemaDeCadastro nesse caminho-> C:xampp/htdocs "deverá ficar assim (C:/xampp/htdocs/SistemaDeCadastro"
+3º - Estartar o servidor xampp e iniciar o servidor mysql do xamp
+4º - Após entrar na tela do phpMyAdmin "mysql" criar a base de dados com o nome 'cadastro' e após cria a tabela 'usuarios' com id, nome e email
+5º - informar a seguinte url no navegador para abrir o projeto ->  http://127.0.0.1/SistemaDeCadastro
+
+agora e so fazer os testes para ver se está cadastrando, listando, alterando e apagando. "Create, Read, Update, Delete"
